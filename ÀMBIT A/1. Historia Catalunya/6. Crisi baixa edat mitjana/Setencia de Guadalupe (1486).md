@@ -1,0 +1,2 @@
+- Auspiciada pel rei [[Ferran II]].
+- Dona estabilitat als camperols Catalans.

@@ -1,0 +1,3 @@
+- Mort [[Marti l'Humà]] sense desendencia.
+- Força el [[Compromis del Casp (1412)]].
+- [[Casament amb Castella]]

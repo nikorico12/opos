@@ -1,0 +1,1 @@
+[[Comte rei]], mor sense desendencia.

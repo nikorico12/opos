@@ -1,0 +1,1 @@
+On resideix el [[Rei Castella]] i la [[Cort]].

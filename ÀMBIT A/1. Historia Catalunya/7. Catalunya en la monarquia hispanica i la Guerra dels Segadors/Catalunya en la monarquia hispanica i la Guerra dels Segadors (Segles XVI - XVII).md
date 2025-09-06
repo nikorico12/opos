@@ -1,0 +1,3 @@
+- Centre politic a [[Castella]].
+- Catalunya manté les [[Institucions politiques Confederació Catalanoaragonesa]], pero un [[virrei]] representa al rei.
+- Catalunya sufreix la [[decadencia]].

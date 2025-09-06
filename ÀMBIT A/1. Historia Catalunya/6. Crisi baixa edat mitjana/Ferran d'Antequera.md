@@ -1,0 +1,1 @@
+[[Comte rei]], elegit per la mort de [[Marti l'Humà]] sense desendencia.

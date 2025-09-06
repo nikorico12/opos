@@ -1,0 +1,1 @@
+rival social de [[La Biga]].

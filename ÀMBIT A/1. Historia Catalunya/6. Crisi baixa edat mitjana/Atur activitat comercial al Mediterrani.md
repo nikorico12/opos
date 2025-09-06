@@ -1,0 +1,1 @@
+- Presencia de [[ciutats comercials]] i els [[turcs]], que fan aturar la activitat comercial.

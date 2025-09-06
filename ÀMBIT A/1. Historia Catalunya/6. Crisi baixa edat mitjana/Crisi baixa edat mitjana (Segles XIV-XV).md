@@ -1,0 +1,3 @@
+- [[Crisi Econòmica i de població]]
+- [[Crisi Social]]
+- [[Crisi Política]]

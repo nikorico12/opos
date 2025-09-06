@@ -1,0 +1,2 @@
+- [[Ferran II]] es casà amb [[Reina Isabel de Castella]] formant la [[Unió dinastica]] amb la [[Corona de Castella]].
+- Fa perdre la monarquia propia d'Aragó.

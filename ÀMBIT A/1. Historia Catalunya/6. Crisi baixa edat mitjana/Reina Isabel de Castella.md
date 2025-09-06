@@ -1,0 +1,1 @@
+Casada amb [[Ferran II]].

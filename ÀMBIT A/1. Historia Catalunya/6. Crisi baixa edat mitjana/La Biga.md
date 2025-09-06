@@ -1,0 +1,1 @@
+Rival social de [[La Busca]].
