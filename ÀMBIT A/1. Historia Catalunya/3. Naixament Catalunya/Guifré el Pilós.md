@@ -1,0 +1,1 @@
+Fundador del Casal de Barcelona (Segle X)

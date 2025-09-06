@@ -1,0 +1,2 @@
+- De la Dinastia del [[Casal de Barcelona]].
+- Casat amb [[Peronella d'Aragó]] per formar la [[Confederació Catalanoargaonesa]] i ser el seu [[Comte rei]].

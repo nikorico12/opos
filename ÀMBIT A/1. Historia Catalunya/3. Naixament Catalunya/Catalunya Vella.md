@@ -1,0 +1,12 @@
+- Territori de la [[Marca Hispanica]]
+- Forma part del Territori:
+	- [[Territoris pirinencs]]
+	- [[Llobregat]]
+	- [[Cardener]]
+	- [[Segrià Mitja]]
+	- [[Conca de Tremp]]
+
+- Territoris dividits en comtats:
+	- Sense herencia, nomenats pel rei franc, [[Carlemany (Segle IX-X)]].
+	- Sense unitat.
+	- Dependencia Senyorial.

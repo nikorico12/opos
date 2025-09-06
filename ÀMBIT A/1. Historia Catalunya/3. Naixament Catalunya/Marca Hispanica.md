@@ -1,0 +1,4 @@
+- Impulsada per [[Carlemany (Segle IX-X)]], del [[regne franc]].
+- Territoris entre la seva frontera i els conquerits als [[Sarraïns]] anys abans per [[Carles Martell]] a la [[Batalla de Poitiers (732)]].
+- Fracàs a la [[Conquesta de Saragossa (778)]] fa que no s'estengui fins a la frontera natural de l'Ebre.
+- Amb la [[Conquesta de Girona (785)]] i la [[Conquesta de Barcelona (801)]] es conegut aquest territori com a [[Catalunya Vella]].

@@ -1,0 +1,6 @@
+- [[Conquesta de Sardenya]]
+- [[Conquesta de Nàpols]]
+- [[Conquesta de ducats grecs d'Atenes]]
+- [[Conquesta de Neopatria]]
+- [[Conquesta de Sicilia]]
+- [[Conquesta de instalacions comercials del nord d'Africa]]

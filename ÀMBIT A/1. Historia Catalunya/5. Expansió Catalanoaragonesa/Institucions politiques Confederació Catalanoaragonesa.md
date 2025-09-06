@@ -1,0 +1,3 @@
+- [[Corts Catalanes]]
+- [[Diputació del General]]
+- [[Consell de Cent]]

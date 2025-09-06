@@ -1,0 +1,4 @@
+- [[Unió dinastica]] entre [[Catalunya]] i [[Aragó]]
+- Es formalitza el 1137, on [[Ramon Berenguer IV]] es casa amb [[Peronella d'Aragó]]
+- Cada territori conserva institucions, lleis i tradicions, nomes comparteixen [[Comte rei]].
+- Es perd territori d'Occitania en la [[Batalla de Muret]]

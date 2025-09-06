@@ -1,0 +1,2 @@
+- Mort de [[Pere el Catòlic]].
+- Perdua de territori de Occitania a mà de [[Inocenci III]].

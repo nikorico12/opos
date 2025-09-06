@@ -1,0 +1,1 @@
+On es configuren les cultures propies i auctoctones.

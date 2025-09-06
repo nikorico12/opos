@@ -1,0 +1,4 @@
+- Antecedent inmediat: [[Marca Hispanica]].
+- Pas del temps, els comtats de [[Catalunya Vella]] guanyen poder.
+- Es funda el [[Casal de Barcelona]].
+- [[Catalunya Sobirana]], degut a la feblesa d'una monarquia franca amb canvi de dinastia i el enfortiment dels comtes catalans que accepten gradualment el [[Casal de Barcelona]].

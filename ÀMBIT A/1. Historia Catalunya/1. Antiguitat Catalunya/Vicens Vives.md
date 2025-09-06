@@ -1,0 +1,1 @@
+Creador dels conceptes de [[Redós]] i [[Passadís]] per descriure l'antiguitat de Catalunya.

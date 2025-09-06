@@ -1,0 +1,2 @@
+- Fundat per [[Guifré el Pilós]].
+- Reuneix els comtats i repobla les planes de la Catalunya Central.
