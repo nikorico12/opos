@@ -1,0 +1,3 @@
+- Millors tecniques de conreu
+- Conreus més grans, intensos i especialitzats
+- Més adobs.

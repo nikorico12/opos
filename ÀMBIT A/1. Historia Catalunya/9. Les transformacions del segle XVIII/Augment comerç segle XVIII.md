@@ -1,0 +1,4 @@
+- Augmenta la capacitat adquisitiva
+- Augmenta la artesania.
+- S'exporta [[vi]] i [[teixits estampats]] a les colonies d'[[Amèrica]].
+- Es comença a treballar la llana.

@@ -1,0 +1,3 @@
+- Població creix **MOLT** al **Litoral**.
+- Població creix al **interior**.
+- S'alenteix a les **muntanyes**.

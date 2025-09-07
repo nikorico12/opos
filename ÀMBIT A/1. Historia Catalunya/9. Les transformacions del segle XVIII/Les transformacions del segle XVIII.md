@@ -1,0 +1,4 @@
+- [[Catalunya]] passa a ser una economia en expansió i capitalista.
+- [[Augment de població segle XVIII]]
+- [[Augment agricultura segle XVIII]]
+- [[Augment comerç segle XVIII]]
