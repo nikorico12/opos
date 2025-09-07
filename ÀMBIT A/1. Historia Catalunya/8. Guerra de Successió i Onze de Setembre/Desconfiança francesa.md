@@ -1,0 +1,1 @@
+- Rei de tradició centralista i unitària

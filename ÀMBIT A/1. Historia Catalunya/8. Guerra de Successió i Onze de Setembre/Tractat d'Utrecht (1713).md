@@ -1,0 +1,3 @@
+- Es posa fi a la Guerra.
+- [[Catalunya]] queda sola i decideix resistir.
+- [[Onze de Setembre (1714)]]

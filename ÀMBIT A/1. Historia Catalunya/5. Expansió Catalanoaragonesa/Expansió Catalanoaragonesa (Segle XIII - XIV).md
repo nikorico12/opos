@@ -15,4 +15,4 @@
 
 ## Pes monarquia
 
-- Suposa una gradual consolidació a [[Institucions politiques Confederació Catalanoaragonesa]].
+- Suposa una gradual consolidació a [[Institucions politiques Catalunya feudal]].

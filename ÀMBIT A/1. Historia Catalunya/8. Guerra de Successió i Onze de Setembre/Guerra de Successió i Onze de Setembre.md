@@ -1,0 +1,5 @@
+- [[Carles II]] mor sense desendencia (1700)
+- [[Felip V]] nomenat succesor
+- Desencadena en un conflicte internacional; la [[Guerra de Successió]].
+- [[Onze de Setembre (1714)]]
+- [[Felip V]], nou rei, força el [[Decret Nova Planta]]

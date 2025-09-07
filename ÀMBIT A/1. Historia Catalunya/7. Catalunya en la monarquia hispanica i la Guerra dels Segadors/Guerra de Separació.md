@@ -1,0 +1,4 @@
+- [[Barcelona]] busca ajut al [[regne franc]] i [[Lluis XIII]].
+- [[regne franc]] no es ben vist pel poble.
+- [[Allotjan soldats francesos]].
+- [[Pau dels Pirineus (1659)]]

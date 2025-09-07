@@ -1,0 +1,4 @@
+- [[Guerra dels Trenta anys]] fa viure a la [[Corona de Castella]] en constant ambient belic.
+- [[Comte duc d'Olivares]] vol obligar a contribuir a les despes i que no es puguin negar e imposar les lleis castellanes.
+- [[Unió d'Armes]]
+- Un [[exercit hispanic a territori catala]] per la guerra amb França.

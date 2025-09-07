@@ -1,0 +1,4 @@
+- [[Elements causants Guerra dels Segadors]]
+- [[revolta social]] el 7 de Juny de 1640 que expressava el malestar popular.
+- passa a ser una [[revolta politica]] gracies a [[Pau Claris]].
+- [[Guerra de Separació]]

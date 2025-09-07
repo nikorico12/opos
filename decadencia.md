@@ -1,1 +1,0 @@
-- Empobriment i aparició del [[Bandolerisme]]

@@ -1,0 +1,2 @@
+- La guerra necesita diners i homes.
+- [[Comte duc d'Olivares]] imposa la [[Unió d'Armes]] a [[Catalunya]]

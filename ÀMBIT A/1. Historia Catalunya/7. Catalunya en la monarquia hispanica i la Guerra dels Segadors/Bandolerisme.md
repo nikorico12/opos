@@ -1,0 +1,2 @@
+- Bandolers senyorevajeven zones boscoses.
+- [[Joan Serrallonga]] i [[Perot Rocaguinarda]] eren bandolers famosos.

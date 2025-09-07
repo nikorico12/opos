@@ -1,0 +1,2 @@
+- [[Catalunya]] passa a ser part del [[Corona de Castella]]
+- [[regne franc]] es queda [[comtats Pau dels Pirineus a territori frances]]

@@ -1,0 +1,5 @@
+- [[Gran Aliança de la Haia]]
+- [[Carles II]] jura a Catalunya les constitucions.
+- [[Catalunya]] signa el [[Pacte de Gènova]].
+- Mor el rei del [[Imperi Austriac]] i [[Arxiduc Carles]] passa a ser el rei.
+- [[Tractat d'Utrecht (1713)]]

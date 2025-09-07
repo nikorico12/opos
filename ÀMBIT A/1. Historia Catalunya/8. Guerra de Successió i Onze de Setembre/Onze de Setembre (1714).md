@@ -1,0 +1,2 @@
+- Ciutat de Barcelona cau en mans de les tropes Felipistes.
+- [[Rafael Casanova]], es ferit.

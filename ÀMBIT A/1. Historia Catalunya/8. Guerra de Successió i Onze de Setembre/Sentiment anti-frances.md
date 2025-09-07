@@ -1,0 +1,1 @@
+- Odi frances de la població gracies a [[Guerra dels Trenta anys]], [[Guerra de Successió]].

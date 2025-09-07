@@ -1,1 +1,0 @@
-- Bandolers senyorevajeven zones boscoses.

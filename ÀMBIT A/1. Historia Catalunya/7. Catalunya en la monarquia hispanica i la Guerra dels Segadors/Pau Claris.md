@@ -1,0 +1,2 @@
+- [[President Generalitat]]
+- Provoca la [[revolta politica]] per salvar Catalunya.

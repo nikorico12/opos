@@ -1,3 +1,4 @@
 - Centre politic a [[Castella]].
-- Catalunya manté les [[Institucions politiques Confederació Catalanoaragonesa]], pero un [[virrei]] representa al rei.
+- Catalunya manté les [[Institucions politiques Catalunya feudal]], pero un [[virrei]] representa al rei.
 - Catalunya sufreix la [[decadencia]].
+- [[Guerra dels Segadors (1640) (Segle XVII)]]

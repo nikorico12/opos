@@ -5,3 +5,5 @@
 5. [[Expansió Catalanoaragonesa (Segle XIII - XIV)]]
 6. [[Crisi baixa edat mitjana (Segles XIV-XV)]]
 7. [[Catalunya en la monarquia hispanica i la Guerra dels Segadors (Segles XVI - XVII)]]
+8. [[Guerra de Successió i Onze de Setembre]]
+9. [[Les transformacions del segle XVIII]]

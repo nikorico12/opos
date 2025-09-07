@@ -1,0 +1,3 @@
+- Empobriment i aparició del [[Bandolerisme]].
+- [[Pressió diferents poders politics]].
+- gradual desaparició amb la recuperació economica al final del segle XVII.

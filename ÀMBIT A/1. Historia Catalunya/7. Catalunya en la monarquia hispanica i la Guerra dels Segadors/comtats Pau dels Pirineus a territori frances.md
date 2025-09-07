@@ -1,0 +1,4 @@
+- [[Comtat de Rosselló]]
+- [[Comtat de Cerdanya]]
+- [[Comtat de Vallespir]]
+- [[Comtat de Conflent]]

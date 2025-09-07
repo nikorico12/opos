@@ -1,0 +1,1 @@
+- Conseller en cap de Barcelona durant el [[Onze de Setembre (1714)]].

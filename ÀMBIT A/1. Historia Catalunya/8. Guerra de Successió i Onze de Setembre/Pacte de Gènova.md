@@ -1,0 +1,4 @@
+- Signat el 20 de Juny de 1705.
+- [[Catalunya]] dona suport a [[Arxiduc Carles]]
+- A canvi de [[suport militar]] i [[compromis a defensar lliberats catalanes]].
+- [[Raons suport]]
