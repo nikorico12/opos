@@ -1,0 +1,4 @@
+- [[Batalla de l'Ebre]]
+- Ofensiva final franquista:
+	- [[Caiguda Barcelona (26 Gener 1939)]]
+	- [[Arribada Frontera (9 Febrer 1939)]]

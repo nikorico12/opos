@@ -1,0 +1,2 @@
+- [[Estatuts de Catalunya]]
+- Aprovat pels ajuntaments.

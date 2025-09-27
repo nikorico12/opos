@@ -1,0 +1,1 @@
+- Lema: "Llibertat, Amnistia, Estatut d'Autonomia"

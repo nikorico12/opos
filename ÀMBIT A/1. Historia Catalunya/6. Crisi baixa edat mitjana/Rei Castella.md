@@ -1,3 +1,0 @@
-## Llista
-
-- [[Ferran II]]

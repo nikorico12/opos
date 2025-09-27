@@ -1,0 +1,3 @@
+- Emigració espanyola al estranger.
+- Inici del turisme massiu.
+- Inversió estranjera ([[SEAT]]).

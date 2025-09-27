@@ -1,0 +1,3 @@
+- Gracies a la crisi de la fil·loxera a França
+- La fil·loxera arriba a Catalunya, forma una crisi i conflictes amb els [[rabassaires]].
+- [[Fundació Unió de Rabassaires (1922)]]

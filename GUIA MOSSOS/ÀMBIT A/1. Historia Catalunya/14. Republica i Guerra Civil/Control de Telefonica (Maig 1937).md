@@ -1,0 +1,1 @@
+ Conflicte [[CNT-FAI]] vs [[UGT]]

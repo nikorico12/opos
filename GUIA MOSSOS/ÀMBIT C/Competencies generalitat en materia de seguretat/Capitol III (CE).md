@@ -1,0 +1,1 @@
+- [[Competencies exclusives]] del estat i les que poden ser assumides per les [[comunitats autonomes]].

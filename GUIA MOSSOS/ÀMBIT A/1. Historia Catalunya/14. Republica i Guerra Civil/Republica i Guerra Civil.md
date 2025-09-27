@@ -1,0 +1,5 @@
+- [[Inici Segona Republica (1931)]]
+- [[Context Politic (1931-1936)]]
+- [[Fets 6 d'Octubre de 1934]]
+- [[Eleccions Febrer 1936]]
+- [[Cop d'Estat i Guerra civil (Juliol 1936)]]

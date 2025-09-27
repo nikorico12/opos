@@ -1,0 +1,3 @@
+- Cos continua com a institució policial
+- [[Francesc Macià]] signa el decret per al [[desplegament dels Mossos a tot el territori Català]]
+- [[Mossos d'Esquadra]] passen a respondre al govern de la [[Generalitat]].

@@ -1,0 +1,2 @@
+- [[Cop d'Estat El Movimiento (17-18 Juliol 1936)]]
+- [[Guerra civil espanyola]]

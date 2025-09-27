@@ -1,0 +1,3 @@
+- Hi ha una diada naciona on més d'un milló de persones hi participen.
+- [[Josep Taradellas]] torna de l'exili i restaura la [[Generalitat]].
+- S'autoritza que els [[Mossos d'Esquadra]] puguin incrementar la plantilla.

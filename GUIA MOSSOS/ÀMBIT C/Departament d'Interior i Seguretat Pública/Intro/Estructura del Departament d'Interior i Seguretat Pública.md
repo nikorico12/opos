@@ -1,0 +1,9 @@
+- El [[Decret 12()2023]] reestructura el departament:
+	- Article 1: [[Estructura del Departament]].
+	- Article 4: [[Secretaria General]].
+	- Article 5: [[Direcció de serveis]].
+	- Article 36: [[Direcció General de Prevenció, Extinció d'Incendis i Salvaments]].
+	- Article 85: [[Direcció General de Protecció Civil]].
+	- Article 98: [[Direcció General d'Administració de Seguretat]].
+	- Article 106: [[Direcció General de Coordinació de les Policies Locals]].
+	- Article 109: [[Direcció General dels Agents Rurals]].

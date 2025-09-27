@@ -1,0 +1,1 @@
+- Posicions més radicals.

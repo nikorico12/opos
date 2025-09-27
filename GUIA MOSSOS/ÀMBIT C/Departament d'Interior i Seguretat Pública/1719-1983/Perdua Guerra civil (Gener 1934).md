@@ -1,0 +1,2 @@
+- [[Francesc Macià]] i [[Lluis Companys]] exiliats.
+- [[Mossos d'Esquadra]] quedan disolt.

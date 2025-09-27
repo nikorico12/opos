@@ -1,0 +1,3 @@
+- Forta immigració.
+- Desplaçament del camp a la ciutat.
+- Aparició de la societat del consum.

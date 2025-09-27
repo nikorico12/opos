@@ -1,0 +1,2 @@
+- L'Estat te [[competencia exclusiva (EAC)]] en la [[Seguretat]].
+- No impedeix a les [[comunitats autonomes]] puguin crear els seus propis [[cossos policials]] si el estatut d'autonomia ho preveu.

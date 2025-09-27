@@ -1,0 +1,2 @@
+- [[Amadeus de Savoia]] abdica
+- [[Primera Republica (1873-1874)]]

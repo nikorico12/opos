@@ -1,0 +1,1 @@
+Nou govern amb forces boreres i la [[CNT-FAI]].

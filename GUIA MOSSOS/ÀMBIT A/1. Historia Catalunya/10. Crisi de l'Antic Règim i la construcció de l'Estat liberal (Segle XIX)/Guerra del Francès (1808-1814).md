@@ -1,0 +1,1 @@
+- Guerrilles i setges a ciutats com [[Girona]].

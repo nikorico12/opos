@@ -1,0 +1,2 @@
+- Revitalització de la llengua i cultura catalana.
+- Influenciat pel [[Romanticisme]].

@@ -1,0 +1,3 @@
+- Hi ha 2 candidats:
+	- [[Maria Cristina, mare d'Isabel]]
+	- [[Carles germa del rei mort]]

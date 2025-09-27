@@ -1,0 +1,2 @@
+- Triomf [[Front d'Esquerres]].
+- [[Amnisita generalitzada]].

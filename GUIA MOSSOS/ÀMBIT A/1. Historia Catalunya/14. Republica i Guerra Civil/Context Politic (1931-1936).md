@@ -1,0 +1,4 @@
+- Força hegemonica a Catalunya: [[ERC (Esquerra Republicana)]]
+- Primera llei del [[Parlament Català]] es anulada pel [[Tribunal de Garanties]].
+- [[Govern republicansocialista (1931-1933)]]
+- 1933: Victoria de la [[dreta anticatalanista]].

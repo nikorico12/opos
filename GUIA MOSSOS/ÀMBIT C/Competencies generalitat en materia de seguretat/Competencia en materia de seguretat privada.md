@@ -1,0 +1,5 @@
+- La [[Generalitat]] executa la legislació de l'estat:
+	- Autoritzar empreses de Seguretat amb domicili i activitat dins de Catalunya.
+	- Inspeccionar i sancionar activitats de seguretat privada.
+	- Autoritzar centres de formació
+	- Coordinar els serveis de seguretat privada amb [[Policia Local]] i [[Mossos d'Esquadra]].

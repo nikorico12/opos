@@ -1,0 +1,3 @@
+- Ordenació del sector
+- Règim d'intervenció administrativa
+- Control dels espectacles en espais i locals públics.

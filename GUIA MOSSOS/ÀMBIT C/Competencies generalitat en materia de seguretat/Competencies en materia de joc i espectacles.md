@@ -1,0 +1,2 @@
+- [[competencia exclusiva (EAC)]] en [[joc, apostes i casinos]] exclusivament a Catalunya.
+- [[competencia exclusiva (EAC)]] en [[espectacles i activitats recreatives]].

@@ -1,0 +1,2 @@
+- El [[Ministeri d'Interior i de Defensa]], renuncein els seus poders sobre la secció, i es transfereix a la Generalitat.
+- També es trespassen les competencies que tenien els [[Mossos d'Esquadra]].

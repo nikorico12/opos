@@ -1,0 +1,23 @@
+- Segons el [[Decret 57()2023]] es reestructura la [[Direcció General de la Policia]]:
+	- Article 1. [[Direcció General de la Policia]].
+	- Article 2. [[Estructura organitzativa de les unitats policials de la Direcció General de la Policia]].
+	- Article 3. [[El Gabinet del Director General]].
+	- Article 7. [[Prefectura de la Policia]].
+	- Article 11. [[Centre de Comandament de la Prefectura]].
+	- Article 16. [[Comissaria Superior Territorial]].
+	- Article 17. [[Regions policials]].
+	- Article 18. [[Àrees bàsiques policials]].
+	- Article 39. [[Regió Policial Virtual]].
+	- Article 43. [[Comissaria General de Mobilitat]].
+	- Article 54. [[Comissaria Superior de Seguretat Ciutadana]].
+	- Article 55. [[Comissaria General d’Intervenció]].
+	- Article 80. [[Comissaria Superior Tècnica]].
+	- Article 89. [[Comissaria General d’Investigació Criminal]].
+	- Article 109. [[Comissaria General d’Informació]].
+	- Article 120. [[Comissaria General de Tecnologies de la Informació i la Comunicació]].
+	- Article 134. [[Comissaria General de Relacions Institucionals, Prevenció i Mediació]].
+	- Article 146. [[Comissaria General d’Investigació Interna i Afers Disciplinaris]].
+	- Article 155. [[Comissaria General d’Inspecció i Avaluació]].
+	- Article 164. [[Subdirecció General d’Administració i Serveis]].
+	- Article 177. [[Subdirecció General de Recursos Humans]].
+	- Article 186. [[Servei d’Assessorament Jurídic]].

@@ -1,0 +1,1 @@
+Les competencies es troben al [[Capitol III (CE)]]

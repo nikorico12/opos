@@ -1,0 +1,6 @@
+- Neutralitzar delinqüencia comuna local.
+- Perseguir [[bandolers]] i homes armats perillosos.
+- Perseguir caçadors furtius.
+- Trasllat de detinguts a les ciutats.
+- Evitar prostitució.
+- Evitar jocs i·legals.

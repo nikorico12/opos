@@ -1,0 +1,2 @@
+- Primer reglament.
+- Especifica la seva naturalesa i competencies.

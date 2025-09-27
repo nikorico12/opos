@@ -1,0 +1,3 @@
+- [[Francesc Macià]]
+- [[Lluis Companys]]
+- [[Josep Taradellas]]

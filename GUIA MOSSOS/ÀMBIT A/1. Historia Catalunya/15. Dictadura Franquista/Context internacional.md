@@ -1,0 +1,4 @@
+- Simpatitza amb el [[Eix]] a la [[Segona Guerra Mundial]].
+- [[Aïllament Internacional]]
+- [[Reconegut pels EUA]]
+- [[Inici obertura exterior]]

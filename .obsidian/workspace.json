@@ -4,39 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "b85982bb3e69a820",
+        "id": "12d0d74ee7f56f70",
         "type": "tabs",
         "children": [
           {
-            "id": "4163ece3fb366cdc",
+            "id": "bf08d786fe3e058c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ÀMBIT A/1. Historia Catalunya/Index - Historia de Catalunya.md",
+                "file": "GUIA MOSSOS/ÀMBIT C/ÀMBIT C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index - Historia de Catalunya"
+              "title": "ÀMBIT C"
             }
           },
           {
-            "id": "53e34d9cc372e868",
+            "id": "75ba775766f0a4c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ÀMBIT A/1. Historia Catalunya/10. Crisi de l'Antic Règim i la construcció de l'Estat liberal (Segle XIX)/Crisi de l'Antic Règim i la construcció de l'Estat liberal (Segle XIX).md",
+                "file": "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/Intro/Departament d'Interior i Seguretat Publica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crisi de l'Antic Règim i la construcció de l'Estat liberal (Segle XIX)"
+              "title": "Departament d'Interior i Seguretat Publica"
+            }
+          },
+          {
+            "id": "1a27ca30d74d26c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GUIA MOSSOS/ÀMBIT C/Competencies generalitat en materia de seguretat/Policia de la Generalitat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Policia de la Generalitat"
+            }
+          },
+          {
+            "id": "a47923039fea3da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Transformació i Evolució del cos de Mossos d'Esquadra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformació i Evolució del cos de Mossos d'Esquadra"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,46 +213,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "672556e45ec84a36",
+  "active": "a47923039fea3da7",
   "lastOpenFiles": [
-    "ÀMBIT A/1. Historia Catalunya/10. Crisi de l'Antic Règim i la construcció de l'Estat liberal (Segle XIX)",
-    "ÀMBIT A/1. Historia Catalunya/10. Crisi de l'Antic Règim i la construcció de l'Estat liberal (Segle XIX)/Crisi de l'Antic Règim i la construcció de l'Estat liberal (Segle XIX).md",
-    "ÀMBIT A/1. Historia Catalunya/Index - Historia de Catalunya.md",
+    "1983-1994.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Transformació i Evolució del cos de Mossos d'Esquadra.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/Intro/Departament d'Interior i Seguretat Publica.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/1719-1983.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Transferencia Mossos d'Esquadra de la Diputacio de Barcelona a la Generalitat (1982).md",
+    "GUIA MOSSOS/ÀMBIT A/1. Historia Catalunya/16. Transició i recuperació d'autonomia/Estatut de Sau (1978).md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Reial Decret 1579()1980.md",
+    "GUIA MOSSOS/ÀMBIT C/Competencies generalitat en materia de seguretat/Policia de la Generalitat.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/Intro",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Primeres eleccions democratiques després dictadura (1977).md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Fi dictadura.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Dia de les escuadres ( 22 d'Abril ).md",
+    "GUIA MOSSOS/ÀMBIT C/ÀMBIT C.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Dictadura Franquista (1950).md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Decret del Ministerio de la Gobernación (Juliol 1950).md",
+    "GUIA MOSSOS/ÀMBIT A/1. Historia Catalunya/15. Dictadura Franquista/Dictadura Franquista.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Perdua Guerra civil (Gener 1934).md",
+    "GUIA MOSSOS/ÀMBIT A/1. Historia Catalunya/14. Republica i Guerra Civil/Guerra civil espanyola.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Proclamació Segona Republica Espanyola (1931).md",
+    "GUIA MOSSOS/ÀMBIT A/1. Historia Catalunya/13. Primer terç del segle XX (1898-1931)/Estat Català.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Estat Català (Octubre 1934).md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Canvi onanigrama dels comandaments (1930).md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Decret 133()2024.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Despres de la guerra de França.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/Intro/Estructura del Departament d'Interior i Seguretat Pública.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/1719-1983/Estructura inicial.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública/Intro/Funcions del Departament d'Interior i Seguretat Pública.md",
+    "GUIA MOSSOS/ÀMBIT C/Departament d'Interior i Seguretat Pública",
+    "llei organica 6",
+    "GUIA MOSSOS",
+    "GUIA MOSSOS/ÀMBIT C/Competencies generalitat en materia de seguretat",
+    "GUIA MOSSOS/ÀMBIT C",
+    "GUIA MOSSOS/ÀMBIT B",
+    "Estatut d'Autonomia (Llei Organica 6",
+    "GUIA MOSSOS/ÀMBIT A/1. Historia Catalunya/17. Catalunya Segle XXI",
     "ÀMBIT A/1. Historia Catalunya/Sense títol.canvas",
-    "ÀMBIT A/1. Historia Catalunya/9. Les transformacions del segle XVIII/Les transformacions del segle XVIII.md",
-    "ÀMBIT A/1. Historia Catalunya/9. Les transformacions del segle XVIII/Augment comerç segle XVIII.md",
-    "ÀMBIT A/1. Historia Catalunya/9. Les transformacions del segle XVIII/Augment agricultura segle XVIII.md",
-    "ÀMBIT A/1. Historia Catalunya/9. Les transformacions del segle XVIII/Augment de població segle XVIII.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Guerra de Successió i Onze de Setembre.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Guerra de Successió.md",
-    "ÀMBIT A/1. Historia Catalunya/9. Les transformacions del segle XVIII",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Decret Nova Planta.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Onze de Setembre (1714).md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Raons suport.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Tractat d'Utrecht (1713).md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Rafael Casanova.md",
-    "ÀMBIT A/1. Historia Catalunya/7. Catalunya en la monarquia hispanica i la Guerra dels Segadors/Bandolerisme.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Pacte de Gènova.md",
-    "Actitud repressiva.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Sentiment anti-frances.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Desconfiança francesa.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Gran Aliança de la Haia.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Arxiduc Carles.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Felip V.md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre/Carles II.md",
-    "ÀMBIT A/1. Historia Catalunya/7. Catalunya en la monarquia hispanica i la Guerra dels Segadors/Pau dels Pirineus (1659).md",
-    "ÀMBIT A/1. Historia Catalunya/7. Catalunya en la monarquia hispanica i la Guerra dels Segadors/Guerra de Separació.md",
-    "ÀMBIT A/1. Historia Catalunya/7. Catalunya en la monarquia hispanica i la Guerra dels Segadors/Guerra dels Segadors (1640) (Segle XVII).md",
-    "ÀMBIT A/1. Historia Catalunya/8. Guerra de Successió i Onze de Setembre",
-    "ÀMBIT A/1. Historia Catalunya/7. Catalunya en la monarquia hispanica i la Guerra dels Segadors",
-    "ÀMBIT A/1. Historia Catalunya/6. Crisi baixa edat mitjana",
-    "Sense títol 1.base",
-    "Sense títol.base",
     "Sense títol.canvas",
-    "ÀMBIT A/1. Historia Catalunya/5. Expansió Catalanoaragonesa",
-    "ÀMBIT A",
-    "ÀMBIT A/1. Historia Catalunya/4. Catalunya Feudal",
-    "ÀMBIT A/1. Historia Catalunya/3. Naixament Catalunya",
     "Untitled/Untitled.canvas",
     "Untitled.canvas"
   ]

@@ -1,0 +1,4 @@
+- [[Estatuts de Catalunya]]
+- Permet a la [[Generalitat]], crear segons l'[[article 13 (EAC)]] un cos policial propi.
+- Encara es un cos de regim militar i els comandants son de l'exercit.
+- [[Reial Decret 1579()1980]]

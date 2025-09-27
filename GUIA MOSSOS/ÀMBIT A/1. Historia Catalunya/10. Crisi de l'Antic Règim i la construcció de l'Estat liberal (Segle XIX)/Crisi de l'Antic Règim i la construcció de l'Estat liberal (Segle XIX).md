@@ -1,0 +1,6 @@
+- [[Conseqüencies revolució Francesa a Catalunya]]
+- [[Primera Constitució Espanyola (1812) - Constitució de Cadiz]]
+- [[Retorn Ferran VII (1814)]]
+- [[Trienni Liberal (1820-1823)]]
+- [[Decada Ominosa (1823-1833)]]
+- [[Tensions entre dos Espanyes (1833-1874)]]

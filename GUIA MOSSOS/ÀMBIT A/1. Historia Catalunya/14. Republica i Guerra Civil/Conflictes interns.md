@@ -1,0 +1,4 @@
+- [[Control de Telefonica (Maig 1937)]]
+- Lluita de poder i visions diferents de guerra
+- [[Intervenció sovietica]]
+- [[CNT-FAI]] perd.

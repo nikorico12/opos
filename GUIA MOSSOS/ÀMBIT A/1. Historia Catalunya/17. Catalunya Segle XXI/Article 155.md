@@ -1,0 +1,4 @@
+- [[Senat Espanyol]] aplica el [[Article 155]].
+- Intervenen la [[Generalitat]] i cesan el [[President Generalitat]].
+- 2018, [[Joaquim Torra]] president de la Generalitat.
+- Juny de 2018 es deixa d'aplicar l'article 155.

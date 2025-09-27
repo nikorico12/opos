@@ -1,0 +1,3 @@
+- [[Derrota colonial (1898)]]
+- Afecta els interesos de la burguesia catalana.
+- [[Catalanisme politic]] es transforma en moviment regeneracionista que vol reformar l'estat espanyol.

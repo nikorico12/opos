@@ -1,0 +1,3 @@
+- Poder legal: [[Generalitat]]
+- Poder real: Comités de milicies antifeixistes ([[CNT-FAI]]).
+- [[Septembre 1936]]

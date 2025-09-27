@@ -1,0 +1,1 @@
+- Amb ajut de l'exercit de  la [[Santa Aliança]], enderoquen el govern i aboleixen la [[Primera Constitució Espanyola (1812) - Constitució de Cadiz]].

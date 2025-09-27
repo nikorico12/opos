@@ -1,0 +1,1 @@
+- Presidida per [[Francesc Pi i Maragall]].

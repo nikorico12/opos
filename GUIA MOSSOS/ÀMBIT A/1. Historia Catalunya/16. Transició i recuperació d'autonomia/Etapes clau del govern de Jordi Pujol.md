@@ -1,0 +1,4 @@
+- Creació de la nova administració i [[Institucions catalanes]].
+- Consolidació d'un espai comunicacional [[CCMA]]
+- Cos policial propi [[Mossos d'Esquadra]]
+- Politica de negociació per aconseguir transferencies i recursos.

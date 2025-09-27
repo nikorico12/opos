@@ -1,0 +1,2 @@
+- En la Constitució Espanyola, [[Constitució (1978)]], el [[Títol VIII (CE)]], [[Capitol III (CE)]].
+- A Catalunya es troba en el [[Estatut d'Autonomia (2006)]], [[Títol IV (EAC)]]

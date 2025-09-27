@@ -1,0 +1,1 @@
+- Proposta per a una organització politica propia de Catalunya

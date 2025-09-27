@@ -1,0 +1,1 @@
+- [[Lluis Companys]] al 1940.

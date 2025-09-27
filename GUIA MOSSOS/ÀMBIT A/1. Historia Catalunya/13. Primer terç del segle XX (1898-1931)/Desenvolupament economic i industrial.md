@@ -1,0 +1,3 @@
+- Diversifiació industrial
+- Aparició electricitat: [[La Canadenca (1911)]]
+- Augment beneficis durant [[Primera Guerra Mundial]], sense millora de salari.

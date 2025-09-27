@@ -1,0 +1,1 @@
+Els que donan suport al [[Carles germa del rei mort]].

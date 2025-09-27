@@ -1,0 +1,5 @@
+- Mobilitzacions ciutadanes (2015) per a noves eleccions.
+- [[Carles Puigdemont]] al 2016 es president de la Generalitat
+- Septembre 2017 al Parlament, s'aprova la convocatoria pel Referendum per la [[Independencia de Catalunya]].
+- [[Tribunal Constitucional]] la suspen.
+- Es fa igualment el 1 d'Octubre de 2017.

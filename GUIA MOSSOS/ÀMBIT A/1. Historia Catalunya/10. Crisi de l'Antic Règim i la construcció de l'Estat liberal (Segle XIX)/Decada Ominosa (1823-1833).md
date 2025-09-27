@@ -1,0 +1,2 @@
+- Es tira enrere tot el fet al [[Trienni Liberal (1820-1823)]]
+- Mort de [[Ferran VII]], hi ha un [[conflicte de successió]].

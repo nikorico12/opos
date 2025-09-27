@@ -1,0 +1,1 @@
+- Autoritza l'organtizació d'una secció de [[Mossos d'Esquadra]] de 40 efectius a prestar serveis el dia de [[Sant Jordi]] a la seu de la [[Diputació]].

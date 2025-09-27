@@ -1,0 +1,1 @@
+- 20 Novembre de 1975, mor [[Francisco Franco]].

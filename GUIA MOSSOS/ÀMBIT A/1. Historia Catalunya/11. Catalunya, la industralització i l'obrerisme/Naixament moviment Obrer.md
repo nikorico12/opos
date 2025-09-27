@@ -1,0 +1,10 @@
+- Apareix el [[prolateriat]]
+- [[protesta de teixidors (1834)]] pel salari
+- Primera societat Obrera al 1840: [[La Assosiació de Protecció Mútua de Teixidors de Cotó]]
+- [[Sixenni Revolucionari (1868-1874)]]
+- Moviment obrer es vincula amb [[l'obrerisme internacional]].
+- [[Primer Congrés Obrer Espanyol (1870)]]
+- [[Congrés de la Federació dels Treballadors de la Regió Espanyola (1881)]]
+- Creació del [[PSOE]] al 1879.
+- Creació de la [[UGT]] al 1888.
+- [[Sindicalisme moderat Tres Clases de Vapor]].

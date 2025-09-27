@@ -1,0 +1,8 @@
+- [[Competencia]]
+- [[On es troben les competencies]]
+- [[Article 149.1.29 (CE)]]
+- [[Competencies en materia d'emergencia i protecció civil]]
+- [[Competencies en materia de joc i espectacles]]
+- [[Competencia en materia de seguretat privada]]
+- [[Competencies en materia de seguretat publica]]
+- [[Compretencies en materia de Transit, Circulació de vehicles i seguretat viaria]]

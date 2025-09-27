@@ -1,0 +1,1 @@
+- Es transforma en moviment regeneracionista que vol reformar l'estat espanyol.****

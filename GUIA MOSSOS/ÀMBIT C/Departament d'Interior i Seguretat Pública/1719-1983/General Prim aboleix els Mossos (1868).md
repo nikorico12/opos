@@ -1,0 +1,2 @@
+- [[General Prim]] aboleix a les [[Escuadras de Paisanos Armados]] .
+- 1868: els substitueix per la [[Guardia civil]].

@@ -1,0 +1,5 @@
+- Escuadres de civils, sota l'ordre d'un comandant.
+- Cada esquadra es dividex en grups.
+- [[Pere Anton Veciana]] es el comandant en cap.
+- Institut armat de naturalesa civil, dependencia civil i miltar.
+- Judicialment respon a la Reial Audiencia del Principat de Catalunya.

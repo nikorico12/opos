@@ -1,0 +1,1 @@
+- Modifica l'uniforme a un amb més facilitat per perseguir criminals i no ser tan vistos.

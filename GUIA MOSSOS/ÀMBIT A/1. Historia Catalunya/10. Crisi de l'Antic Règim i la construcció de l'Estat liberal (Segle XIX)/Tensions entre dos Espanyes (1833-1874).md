@@ -1,0 +1,6 @@
+- Espanya cada vegada més liberal.
+- [[Primera Guerra Carlina (1833-1840)]]
+- [[Desmortizació de l'esglesia]]
+- [[Aixecaments populars a Barcelona]]
+- [[Controversia politica]]
+- [[Insurreció Militar del General Prim (1868)]]

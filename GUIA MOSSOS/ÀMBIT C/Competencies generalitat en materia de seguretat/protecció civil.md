@@ -1,0 +1,5 @@
+- Regulació
+- Planificació
+- Execució
+- Direcció
+- Coordinació de serveis

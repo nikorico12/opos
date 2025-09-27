@@ -1,0 +1,4 @@
+- Ensenyament
+- Salut
+- Benestar social
+- Seguretat

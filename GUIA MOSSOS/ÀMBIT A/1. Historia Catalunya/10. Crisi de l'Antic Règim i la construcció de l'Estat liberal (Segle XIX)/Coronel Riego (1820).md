@@ -1,0 +1,1 @@
+- [[aixecaments militars]] que triomfa i fa tornar la [[Primera Constitució Espanyola (1812) - Constitució de Cadiz]]

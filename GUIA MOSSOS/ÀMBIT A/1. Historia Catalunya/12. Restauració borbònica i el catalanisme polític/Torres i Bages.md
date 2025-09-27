@@ -1,0 +1,1 @@
+[[catolic]] i [[conservador]].

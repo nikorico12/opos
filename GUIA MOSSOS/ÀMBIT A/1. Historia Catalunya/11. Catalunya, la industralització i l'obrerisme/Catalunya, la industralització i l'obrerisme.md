@@ -1,0 +1,5 @@
+- [[Inici Industralització a Catalunya]]
+- [[Caracteristiques industralització]]
+- [[Transformacions urbanes i socials]]
+- [[Agricultura segle XIX]]
+- [[Naixament moviment Obrer]]

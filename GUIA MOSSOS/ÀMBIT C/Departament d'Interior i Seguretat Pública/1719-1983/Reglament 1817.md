@@ -1,0 +1,4 @@
+- Detalla l'organització.
+- Drets.
+- Deures.
+- Càstigs.

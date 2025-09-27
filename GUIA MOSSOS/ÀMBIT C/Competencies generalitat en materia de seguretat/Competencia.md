@@ -1,0 +1,2 @@
+- Es el conjunt de funcions que l'ordenament juridic atribueix a un subjecte públic en una determinada matera.
+- Dit d'una altre forma: Conjunt de coses que una persona o institució del govern pot fer legalment en un tema concret.

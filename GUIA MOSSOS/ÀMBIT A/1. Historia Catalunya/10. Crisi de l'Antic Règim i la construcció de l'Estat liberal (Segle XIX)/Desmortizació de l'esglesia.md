@@ -1,0 +1,4 @@
+- **Es vendre els terrenys i objectes de l'esglesia**, serveix per a:
+	- Pagar el deficit d'hisenda
+	- Pagar l'exercit contra els Carlins.
+	- Mesura més important de la revolució liberal.

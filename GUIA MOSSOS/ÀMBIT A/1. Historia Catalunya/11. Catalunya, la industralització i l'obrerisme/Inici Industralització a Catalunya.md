@@ -1,0 +1,2 @@
+- Es crea la [[Fabrica Bonaplata (1833)]]
+- Anys 40 del Segle XIX, s'inicia realment.

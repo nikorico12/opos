@@ -1,0 +1,5 @@
+- Dictadura militar [[feixista]].
+- [[Partit unic]].
+- Sindicalisme vertical.
+- Institucions nomenades des de dalt.
+- Resistencia armada minima, només els [[Maquis]].

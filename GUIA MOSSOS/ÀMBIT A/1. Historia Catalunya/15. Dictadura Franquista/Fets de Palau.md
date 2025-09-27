@@ -1,0 +1,1 @@
+- Preso a [[Jordi Pujol]]

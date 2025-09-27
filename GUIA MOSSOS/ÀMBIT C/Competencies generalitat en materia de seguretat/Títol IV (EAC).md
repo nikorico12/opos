@@ -1,0 +1,1 @@
+- Es troben les competencies de Catalunya.

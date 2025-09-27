@@ -1,0 +1,2 @@
+- [[competencia exclusiva (EAC)]] en [[protecció civil]]
+- [[competencia executiva]] en [[salvament maritim]] i [[seguretat nuclear]].

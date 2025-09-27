@@ -1,0 +1,11 @@
+- [[Diputació]] torna a crear un cos de [[Mossos d'Esquadra]].
+- Caracter reduït.
+- Només vigila la seu de la [[Diputació]].
+- [[Decret del Ministerio de la Gobernación (Juliol 1950)]].
+- Cos de caracter militar.
+- Primers actes son honrar a [[Francisco Franco]].
+- Integrants son la majoria de l'exercit i la [[Guardia civil]].
+
+- Guardonats amb la [[Medalla de Sant Jordi]] per:
+	- Gran actuació durant una riuada al Valles.
+	- Intervencio d'un avio estrellat al Montseny on van morir 112 persones.

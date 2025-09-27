@@ -1,0 +1,3 @@
+- [[Constitucions Espanyoles]]
+- Pais que esta canviant, es el [[primer text liberal]].
+- [[Antoni de Capmany]] fa un paper important en la redacció.

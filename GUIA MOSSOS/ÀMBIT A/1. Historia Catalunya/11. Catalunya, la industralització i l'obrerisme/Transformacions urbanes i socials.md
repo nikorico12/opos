@@ -1,0 +1,2 @@
+- Creixement demografic de 900.000 (finals segle XVIII) habitants a 1.752.000 (1877).
+- Creixement Urba, es derroquen muralles i apareixen projectes com [[l'Eixample]].

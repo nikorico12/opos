@@ -1,0 +1,4 @@
+- Prohibició dels [[simbols catalans]].
+- Institucions abolides.
+- Carrers canviats.
+- Monuments retirats.

@@ -1,0 +1,4 @@
+- Realitza efectiu el reaspas al 1982.
+- Convoquen 280 places noves.
+- Amb la [[Llei 19()1983]] es crea la policia autonomica, i s'absorbeix als Mossos.
+- S'adopta el nom i efectius.

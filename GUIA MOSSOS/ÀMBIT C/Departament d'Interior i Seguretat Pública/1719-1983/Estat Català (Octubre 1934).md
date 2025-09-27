@@ -1,0 +1,3 @@
+- [[Lluis Companys]] proclama l'Estat Català, suprimit per l'exercit espanyol.
+- [[Mossos d'Esquadra]] desarmats i comandaments empresonats.
+- No fa possible el [[desplegament dels Mossos a tot el territori Català]], pero deixa la base pel futur.

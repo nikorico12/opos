@@ -1,0 +1,2 @@
+- Final de la [[Guerra de Successió]].
+- El [[Capità General de Catalunya]], crea els mossos per mantenir l'ordre i perseguir els ultims partidaris de [[Arxiduc Carles]].

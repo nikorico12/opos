@@ -1,0 +1,1 @@
+- Renuncien després de 115 anys al comandament.

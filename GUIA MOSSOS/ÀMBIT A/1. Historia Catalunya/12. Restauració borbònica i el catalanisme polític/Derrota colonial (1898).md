@@ -1,0 +1,3 @@
+- [[Perdua de Cuba]]
+- [[Perdua de Puerto Rico]]
+- [[Perdua de les Filipines]]

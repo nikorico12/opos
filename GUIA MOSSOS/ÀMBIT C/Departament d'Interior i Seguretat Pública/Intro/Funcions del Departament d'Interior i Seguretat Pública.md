@@ -1,0 +1,2 @@
+- [[Decret 133()2024]]
+- Aquestes funcions s'amplien o concreten en el desenvolupament competencial de cadascun dels organs que estructuren el Departament d'Interior i Seguretat publica.

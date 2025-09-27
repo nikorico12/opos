@@ -1,0 +1,11 @@
+- Entre moderats i progressistes:
+- Moderats:
+	- Autoritaris
+	- A favor de la corona
+	- Restrictius amb les llibertats
+	- Sufragi restringit
+
+- Progresistes:
+	- Sobirania Nacional
+	- Amplies llibertats
+	- Sufragi no tant restringit

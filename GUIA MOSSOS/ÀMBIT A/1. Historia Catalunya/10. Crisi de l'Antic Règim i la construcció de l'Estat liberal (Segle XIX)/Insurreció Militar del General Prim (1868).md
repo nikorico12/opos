@@ -1,0 +1,5 @@
+- Insurreció Progressista
+- Obre les portes al [[Sixenni Revolucionari (1868-1874)]]
+- [[Isabel II]] marxa del pais i [[Amadeus de Savoia]] es coronat rei.
+- Nova [[Constitució (1869)]]
+- [[Assasinat General Prim]]

@@ -1,0 +1,5 @@
+- Sector principal es el [[cotó]], hi a altres sectors com la [[llana]] i la [[construcció mecanica]].
+- Ubicació als rius, per raons energetiques, on es fan [[colonies industrials]].
+- La sideurgia no funciona per falta de ferro i carbo.
+- [[Millora de camins i carreteres]].
+- Creacio de la [[Linia Barcelona-Mataró (1848)]].

@@ -1,0 +1,1 @@
+- Manipulació electoral mitjançant governadors civils.

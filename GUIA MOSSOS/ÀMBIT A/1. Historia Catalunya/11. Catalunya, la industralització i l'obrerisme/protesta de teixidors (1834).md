@@ -1,0 +1,1 @@
+- Fa que es creei la [[La Assosiació de Protecció Mútua de Teixidors de Cotó]]

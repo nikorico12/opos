@@ -1,0 +1,3 @@
+- [[Guerra Gran (1793-1795)]]
+- [[Guerra del Francès (1808-1814)]]
+- Provoca un aixecament popular anti-frances, i també un aixecament en contra del Estat Espanyol.

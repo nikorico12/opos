@@ -1,0 +1,1 @@
+- Primer signe de resistencia urbana.

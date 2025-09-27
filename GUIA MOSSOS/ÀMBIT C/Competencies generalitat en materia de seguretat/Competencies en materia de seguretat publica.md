@@ -1,0 +1,13 @@
+- La [[Generalitat]] segons l'[[Article 164 (EAC)]] i la legislació estatal, te les competencies següents:
+	- Planifica i regula el sistema de Seguretat Publica a Catalunya.
+	- Ordena la [[Policia Local]]
+	- Crea i organitza la [[Policia de la Generalitat]]
+	- Comandament suprem dels [[Mossos d'Esquadra]] i coordina les [[Policia Local]]
+	- Controla i vigila el [[Transit]]
+	- Exercita funcions governatives sobre els drets de reunio i manifestació.
+	- Vetlla per la conservació del medi ambient i recursos hidrològics.
+	- Col·labora en l'àmbit internacional
+	- Funcions [[Mossos d'Esquadra]]:
+		- [[Seguretat ciutadana]] i [[ordre public]]
+		- [[Policia administrativa]]
+		- [[Policia judicial]] i [[investigació criminal]]

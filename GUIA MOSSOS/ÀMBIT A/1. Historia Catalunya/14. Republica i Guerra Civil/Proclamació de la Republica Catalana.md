@@ -1,0 +1,5 @@
+- Per [[Francesc Macià]]
+- 14 Abril.
+- Es converteix en la [[Generalitat]]
+- [[Estatut de Núria (1931)]]
+- Septembre de 1932: S'aprova un estatut retallat.

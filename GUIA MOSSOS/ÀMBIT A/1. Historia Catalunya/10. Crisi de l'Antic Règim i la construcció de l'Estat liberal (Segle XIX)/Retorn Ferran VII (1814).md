@@ -1,0 +1,2 @@
+- [[Ferran VII]] suspen la [[Primera Constitució Espanyola (1812) - Constitució de Cadiz]], fa tornar el [[Absolutisme monarquic]].
+- Hi ha aixecaments militars, el que te exit es el del [[Coronel Riego (1820)]].

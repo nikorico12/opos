@@ -1,0 +1,3 @@
+- Conservadors: [[Cánovas del Castillo]]
+- Liberals: [[Sagasta]]
+- [[Caciquisme]]

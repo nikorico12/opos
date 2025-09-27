@@ -1,0 +1,3 @@
+- [[Artur Más]] reclama un [[Estat Català]].
+- Conovca eleccions al Parlament que afavoreix a un Referendum per decidir les relacions entre Catalunya i l'Estat.
+- Consulta popular no vinculat i es supsesa i prohibida.

@@ -1,0 +1,3 @@
+- [[Pronunciament militar del General Martinez Campos (1874)]]
+- [[Constitució (1876)]]
+- [[Sistema Bipartidista]]

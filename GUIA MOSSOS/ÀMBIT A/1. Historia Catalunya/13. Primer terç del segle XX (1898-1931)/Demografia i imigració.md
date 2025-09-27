@@ -1,0 +1,2 @@
+- Creix la població en casi 1 milló de persones. (1900-1930)
+- [[Primera gran onada migratoria]]
